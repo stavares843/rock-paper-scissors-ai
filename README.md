@@ -50,6 +50,13 @@ On first run, TensorFlow RN backend will initialize which can take a moment.
   - Scissors: index+middle extended only
 - A gesture must remain stable for ~600ms before a round is locked in, then the AI randomly picks its move and the result is shown briefly. Scores update automatically.
 
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/9df552dd-89ba-42d6-8419-d36e49a93761" alt="Screenshot 1" height="700px"/>
+  <img src="https://github.com/user-attachments/assets/f57bf5d2-0af2-4afc-9ae3-9267021544f1" alt="Screenshot 2" height="700px"/>
+</p>
+
+
+
 ## Notes & limitations
 - Ensure good lighting and hold your hand within the camera frame
 - Paper requires all four non-thumb fingers extended; thumb state is ignored for robustness
