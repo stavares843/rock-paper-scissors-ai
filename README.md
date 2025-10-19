@@ -38,6 +38,9 @@ npx expo start
 - Press a to run on Android emulator
 - Or scan the QR with Expo Go on your device
 
+<img width="1846" height="1288" alt="image" src="https://github.com/user-attachments/assets/6e7bb9f4-38ec-4b0a-82c9-9764a81e4e7e" />
+
+
 On first run, TensorFlow RN backend will initialize which can take a moment.
 
 ## How it works
