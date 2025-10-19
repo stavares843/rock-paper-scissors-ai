@@ -60,7 +60,7 @@ On first run, TensorFlow RN backend will initialize which can take a moment.
 
 
 
-## Notes & limitations
+## Notes
 - Ensure good lighting and hold your hand within the camera frame
 - Paper requires all four non-thumb fingers extended; thumb state is ignored for robustness
 - Performance varies by device
